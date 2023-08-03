@@ -1,0 +1,15 @@
+*.pyc
+*.log
+Test_project/logs
+Test_project/export_deliverables
+Test_project/cantaloupe/*
+Test_project/staticfiles
+Test_project/media/packages
+Test_project/media/node_modules
+Test_project/media/build/*
+Test_project/uploadedfiles/*
+Test_project/settings_local.py
+Test_project/webpack/webpack-stats.json
+Test_project/webpack/webpack-user-config.js
+.vscode/
+CACHE
